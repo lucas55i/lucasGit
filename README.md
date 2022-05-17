@@ -1,4 +1,4 @@
-# photo portfolio
+# Photo Portfolio
 
 
 Big Picture by HTML5 UP
