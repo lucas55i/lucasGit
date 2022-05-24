@@ -140,11 +140,9 @@
 					$('.main.style2')
 						.scrollex({
 							mode:		'middle',
-<<<<<<< HEAD
-							delay:		50,
-=======
+
 							delay:		10,
->>>>>>> 3b696af (Edit animation speed)
+
 							initialize:	function() { $(this).addClass('inactive'); },
 							terminate:	function() { $(this).removeClass('inactive'); },
 							enter:		function() { $(this).removeClass('inactive'); },
